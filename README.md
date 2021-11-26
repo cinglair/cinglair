@@ -1,4 +1,6 @@
 <h1 align="center">Hi 👋, I'm Cinglair Capello</h1>
+
+
 <h3 align="center">I am currently studying Computer Engineering at UTFPR - PB, and I am a technician in Industrial Automation at SENAI</h3>
 
 - 🔭 I’m currently working on **Occam Engineering as Finance Director and Developer and at TeamConectar as Frontend Developer**
