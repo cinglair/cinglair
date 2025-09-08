@@ -2,7 +2,7 @@
 
 <h3 align="center">I have a degree in Computer Engineering from UTFPR - PB, and I am currently pursuing a postgraduate degree at UTFPR. I also have a technical degree in Industrial Automation from SENAI.</h3>
 
-- 🔬 I’m currently working on *Parseint as Full Stack Developer**
+- 🔬 I’m currently working on *LCCV/UFAL - Scientific Computing and Visualization Laboratory as Full Stack Developer**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
